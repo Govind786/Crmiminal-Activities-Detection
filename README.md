@@ -1,4 +1,4 @@
-# sih2022
+# Criminal Activities Detection
 
 A new Flutter project.
 
